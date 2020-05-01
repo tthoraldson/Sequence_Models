@@ -6,6 +6,7 @@
 - Jazz Improvisation with LSTM
 
 ### Week 2
-
+- Operations on word vectors - Debiasing
+- Emojify
 
 ### Week 3
